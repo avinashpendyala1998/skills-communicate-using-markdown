@@ -1,5 +1,6 @@
 <header>
-
+# Adding 1st line
+  # adding 2nd line
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
